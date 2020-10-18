@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+  <title>Armstrong number</title>
 <script>
 function armstr()
 {
